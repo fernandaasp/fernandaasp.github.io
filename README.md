@@ -5,4 +5,4 @@ Eu sou Fernanda Asp, formada em Odontologia pela Pontifícia Universidade Catól
 
 # Agende sua consulta
 
-[![Whatsapp](/assets/img/whatsapp_button.jpg)](https://wa.me/351914907854)
+[![Whatsapp](/assets/img/whatsapp_button.png)](https://wa.me/351914907854)
