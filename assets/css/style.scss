@@ -1,1 +1,47 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: #4d4d4d;
+}
+
+h1 {
+  font-family: georgia;
+  color: #00ab97;
+  text-align: center;
+}
+
+h2 {
+  font-family: georgia;
+  color: #d1bcdc;
+  text-align: center;
+}
+
+h3 {
+  font-family: georgia;
+  color: #edf6f2;
+  text-align: center;
+}
+
+p {
+  font-family: georgia;
+  color: white;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>My First CSS Example</h1>
+<h2>My First CSS Example</h2>
+<h3>My First CSS Example</h3>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
