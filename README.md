@@ -5,5 +5,6 @@ Eu sou Fernanda Asp Souza, formada em Odontologia pela Pontifícia Universidade 
 
 # Tire suas dúvidas
 
-[![Whatsapp](https://www.plasbohn.com.br/wp-content/uploads/2019/09/botao-whatsapp-no-seu-site-mercadobinario-300x294-2.png)](https://wa.me/351914907854)[![Instagram](/assets/img/instagram-icon-color-small.png)](https://ig.me/m/nandaasp)
+<a href="https://wa.me/351914907854"><img src="https://www.plasbohn.com.br/wp-content/uploads/2019/09/botao-whatsapp-no-seu-site-mercadobinario-300x294-2.png" alt="Whatsapp" style="height:42px"></a>
 
+<a href="https://ig.me/m/nandaasp"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" alt="Instagram" style="height:42px"></a>
