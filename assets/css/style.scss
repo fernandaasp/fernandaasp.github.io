@@ -9,13 +9,34 @@ body {
   color: white;
 }
 
-h1 {
+h1, h2, h3, h4, h5, h6 {
   font-family: georgia;
-  color: #00ab97
+  color: #d1bcdc
 }
 
 p {
   font-family: georgia;
   color: white;
   font-size: 20px;
+}
+
+a {
+  color:#00ab97;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:#00e6cb;
+  font-weight: bold;
+}
+
+a small {
+  font-size:11px;
+  color:#00ab97;
+  margin-top:-0.3em;
+  display:block;
+}
+
+a:hover small {
+  color:#00e6cb;
 }
